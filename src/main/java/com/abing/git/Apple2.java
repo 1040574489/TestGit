@@ -6,6 +6,7 @@ public class Apple2 {
 		System.out.print("start....left");
 		System.out.print("start....hot_fix111");
 		System.out.print("start....2hot_fix");
+		System.out.print("start....2hot_fix2");
 		System.out.print("start....git2hot_fix2");
 	}
 }
