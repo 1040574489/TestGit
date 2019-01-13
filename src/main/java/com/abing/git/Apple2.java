@@ -9,5 +9,7 @@ public class Apple2 {
 		System.out.print("start....2hot_fix2");
 		System.out.print("start....git2hot_fix2");
 		System.out.print("start....ideamodify");
+		System.out.print("start....jenkinsByGit");
+
 	}
 }
